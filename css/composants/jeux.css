@@ -1,0 +1,33 @@
+.sectionjeux{
+    display: flex;
+    background-color: grey;
+    flex-direction: column;
+}
+
+.titrejeux{
+    margin-left: 350px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.textjeux{
+    margin-top: 10%;
+    font-size: 150%;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.imgjeux{
+    width: 50%;
+    float: right;
+}
+
+.imgjeux2{
+    width: 50%;
+    float: left;
+}
+
+.textjeux2{
+    text-align: left;
+    margin-top: 10%;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 150%;
+}

@@ -1,0 +1,34 @@
+.sectionmarketing{
+    display: flex;
+    background-color: grey;
+    flex-direction: column;
+}
+
+.titremarketing{
+    margin-left: 350px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.textmarketing{
+    margin-top: 10%;
+    font-size: 150%;
+    font-family: 'Josefin Sans', sans-serif;
+    
+}
+
+.imgmarketing{
+    width: 50%;
+    float: right;
+}
+
+.imgmarketing2{
+    width: 50%;
+    float: left;
+}
+
+.textmarketing2{
+    text-align: left;
+    margin-top: 10%;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 150%;
+}

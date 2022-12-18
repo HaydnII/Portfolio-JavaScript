@@ -1,0 +1,28 @@
+.section3d{
+    display: flex;
+    background-color: grey;
+}
+
+.titre3d{
+    margin-left: 350px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.text3d{
+    margin-top: 100px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.img3d{
+    margin-left: 50px;
+}
+
+#carouselExampleControls{
+    width: 50%;
+    margin: auto;
+}
+
+.carousel-item img{
+    width: 100%;
+    height: auto;
+}

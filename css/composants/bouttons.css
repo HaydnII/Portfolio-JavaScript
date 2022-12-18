@@ -1,0 +1,12 @@
+.btn-produit {
+    width: 100%;
+    background-color: gray;
+    border-radius: 20px;
+    padding: 10px 20px;
+}
+
+.btn-produit:hover {
+    width: 100%;
+    background-color: red;
+    border-radius: 20px;
+}

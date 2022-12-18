@@ -1,0 +1,33 @@
+.navbar {
+    background-color: gray;
+    height: 150px;
+    padding: 50px;
+    border-bottom: 2px solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    animation-name: navbar-color;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    animation-direction: forward;
+}
+
+.navbar .menu{
+    display: flex;
+}
+
+.menu .btn-produit{
+    margin-right: 50px;
+}
+
+@keyframes navbar-color {
+0%{
+    background-color: rgba(0, 128, 0, 0.24);
+}
+50%{
+    background-color: rgba(0, 128, 0, 0.479);
+}
+100%{
+    background-color: rgba(0, 128, 0, 0.733);
+}
+}

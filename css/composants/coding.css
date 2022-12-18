@@ -1,0 +1,37 @@
+.sectioncoding{
+    display: flex;
+    background-color: grey;
+    flex-direction: column;
+}
+
+.titrecoding{
+    margin-left: 350px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.textcoding2{
+    text-align: left;
+    margin-top: 10%;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 150%;
+    
+
+}
+
+.imgcoding{
+    width: 45%;
+    float: right;
+    
+}
+
+.imgsiteweb{
+    width: 55%;
+    float: left;
+}
+
+.textcoding{
+    margin-top: 10%;
+    font-size: 150%;
+    font-family: 'Josefin Sans', sans-serif;
+   
+}

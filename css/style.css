@@ -1,0 +1,35 @@
+@import url(composants/avatar.css);
+@import url(composants/bouttons.css);
+@import url(composants/containers.css);
+@import url(composants/navbar.css);
+@import url(composants/banner.css);
+@import url(composants/cartes.css);
+@import url(composants/creation.css);
+@import url(composants/footer.css);
+@import url(composants/3d.css);
+@import url(composants/Jeux.css);
+@import url(composants/coding.css);
+@import url(composants/marketing.css);
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+@media screen and (max-width: 900px) {
+    body{
+        width: auto;
+        image-rendering: auto;
+        flex-direction: column;
+        
+    }
+}
